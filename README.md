@@ -1,2 +1,2 @@
-### Hi there 👋 Glad to See you Here :innocent:
+### Hi there 👋 Thanks for visiting :innocent:
 
