@@ -8,5 +8,5 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nivedhabkr)
-[![Website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwebsite-logo&psig=AOvVaw2CIcbINVzgEflrrqQTiUQ9&ust=1694339580649000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIj3lfmgnYEDFQAAAAAdAAAAABAH)](https://nivedhabalakrishnan.com)
+[![Website](https://nivedhabalakrishnan.com)]
 
