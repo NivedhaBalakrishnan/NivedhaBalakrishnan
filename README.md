@@ -19,6 +19,10 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-11.2-76B900.svg)	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=MongoDB&logoColor=white) 
 
 # Projects
+## Master Thesis
+### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
+- Description: Research project using ML to discover new drugs to treat thrombosis
+- Repository Link: [Master Thesis Codebase](https://github.com/NivedhaBalakrishnan/Antithrombin_Peptide_ML)
 
 ## NLP/Transformers
 
@@ -30,4 +34,6 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
-### 
+### Project 3: MLOps driven News Article Search Relevancy with SBERT 
+- Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
+- Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
