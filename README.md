@@ -29,6 +29,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 ### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
 - Description: Research project using ML to discover new drugs to treat thrombosis
 - Repository Link: [Master Thesis Codebase](https://github.com/NivedhaBalakrishnan/Antithrombin_Peptide_ML)
+- Inference Website: [Thrombin Inhibitor Peptide Predictor](https://thrombin-inhibitor-peptide-predictor.info/)
 
 ## NLP/Transformers
 
