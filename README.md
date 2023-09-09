@@ -22,12 +22,12 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
 ## NLP/Transformers
 
-### Project 1: Text Summarization using Transformers (GPT-3.5, FLAN T5)
-- Description: A project focused on using BERT-based models for text summarization.
-- Repository Link: [Text Summarization Repo](https://github.com/yourusername/text-summarization)
+### Project 1: Text Summarization using Transformers
+- Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
+- Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
 
 ### Project 2: Sentiment Analysis of Dating App Reviews using Transformers
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
-
+### 
