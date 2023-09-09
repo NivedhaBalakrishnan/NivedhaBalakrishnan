@@ -6,7 +6,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
  If you'd like to explore the skills and knowledge I've gathered on this journey, please feel free to delve deeper into my work below. :point_down:
 
- ## 🌐 Socials
+ ### 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/nivedhabkr/)
 - [My Website](https://www.nivedhabalakrishnan.com/)
 
@@ -24,7 +24,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
 
 
-# Projects
+# Highlighted Projects
 ## Master Thesis
 ### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
 - Description: Research project using ML to discover new drugs to treat thrombosis
@@ -49,3 +49,9 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
 #### Project 1: Music Recommendation System
 - Description: Built a music recommendation using various techniques including <b>Autoencoders</b>, <b>Neural Collaborative Filtering</b>, and <b>Neural Networks</b>
+- Repository Link: [Music Recommendation System](https://github.com/NivedhaBalakrishnan/Recommendation_Systems/tree/main/Music%20Recommendation)
+
+#### Project 2: Movie Recommendation System
+- Description: Built a movie recommendation system using TensorFlow and deep learning techniques.
+- Repository Link: [Movie Recommendation System](https://github.com/NivedhaBalakrishnan/Recommendation_Systems/tree/main/Movie%20Recommendation)
+
