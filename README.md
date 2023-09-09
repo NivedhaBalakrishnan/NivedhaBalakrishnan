@@ -48,7 +48,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 ## Recommendation Systems
 
 #### Project 1: Music Recommendation System
-- Description: Built a music recommendation using various techniques including <b>Autoencoders</b>, <b>Neural Collaborative Filtering</b>, and <b>Neural Networks</b>
+- Description: Built a music recommendation using various techniques including <u>Autoencoders</u>, <u>Neural Collaborative Filtering</u>, and <u>Deep Neural Networks</u>
 - Repository Link: [Music Recommendation System](https://github.com/NivedhaBalakrishnan/Recommendation_Systems/tree/main/Music%20Recommendation)
 
 #### Project 2: Movie Recommendation System
