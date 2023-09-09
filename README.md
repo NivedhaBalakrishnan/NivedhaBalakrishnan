@@ -38,7 +38,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 - Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
 
 #### Project 2: Sentiment Analysis of Dating App Reviews using Transformers
-- Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model to understand customer reviews.
+- Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
 #### Project 3: MLOps driven News Article Search Relevancy with SBERT 
