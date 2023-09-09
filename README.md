@@ -27,8 +27,6 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 - Repository Link: [Text Summarization Repo](https://github.com/yourusername/text-summarization)
 
 ### Project 2: Sentiment Analysis of Dating App Reviews using Transformers
-- Description: Harnessing the power of cutting-edge NLP techniques & transformers to understand the sentiment behind dating app reviews.Harnessing the power of cutting-edge NLP techniques & transformers to understand the sentiment behind dating app reviews.![image](https://github.com/NivedhaBalakrishnan/NivedhaBalakrishnan/assets/50318272/1483d108-6c35-40d8-8b1c-bbd34c78685d)
-![Uploading image.png…]()
-.
-- Repository Link: [Sentiment Analysis Repo](https://github.com/yourusername/sentiment-analysis-transformers)
+- Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model to understand customer reviews.
+- Repository Link: [Dating App Reviews]([https://github.com/yourusername/sentiment-analysis-transformers](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
