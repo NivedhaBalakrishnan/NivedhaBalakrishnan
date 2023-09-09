@@ -1,1 +1,1 @@
-### Hi there 👋 Thanks for visiting :innocent:
+### Welcome to my GitHub profile :star_struck: Thanks for stopping by! :innocent:
