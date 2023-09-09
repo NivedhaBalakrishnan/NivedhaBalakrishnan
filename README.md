@@ -44,3 +44,8 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 ### Project 3: MLOps driven News Article Search Relevancy with SBERT 
 - Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
 - Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
+
+## Recommendation Systems
+
+### Project 1: Music Recommendation System
+- Description: Built a music recommendation using various techniques including <b>Autoencoders</b>, <b>Neural Collaborative Filtering</b>, and <b>Neural Networks</b>
