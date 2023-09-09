@@ -28,5 +28,6 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
 ### Project 2: Sentiment Analysis of Dating App Reviews using Transformers
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model to understand customer reviews.
-- Repository Link: [Dating App Reviews]([https://github.com/yourusername/sentiment-analysis-transformers](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
+- Repository Link: [Dating App Reviews](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
+
 
