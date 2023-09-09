@@ -6,4 +6,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 
  If you'd like to explore the skills and knowledge I've gathered on this journey, please feel free to delve deeper into my work below. :point_down:
 
- 
+ ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nivedhabkr)
+[![Website]](https://nivedhabalakrishnan.com)
+
