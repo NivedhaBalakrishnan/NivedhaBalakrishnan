@@ -37,7 +37,7 @@ Like many driven to make a meaningful impact, I share a common goal. In my pursu
 - Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
 - Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
 
-#### Project 2: Sentiment Analysis of Dating App Reviews using Transformers
+#### Project 2: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
