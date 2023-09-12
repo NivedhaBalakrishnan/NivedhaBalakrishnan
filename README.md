@@ -23,7 +23,6 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/NTA5KZMP8DFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 
-
 # Highlighted Projects
 ## Master Thesis
 #### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
@@ -31,7 +30,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Repository Link: [Master Thesis Codebase](https://github.com/NivedhaBalakrishnan/Antithrombin_Peptide_ML)
 - Inference Website: [Thrombin Inhibitor Peptide Predictor](https://thrombin-inhibitor-peptide-predictor.info/)
 
-## NLP/Transformers
+## GenAI/NLP/LLM/Transformers
 
 #### Project 1: Text Summarization using Transformers
 - Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
