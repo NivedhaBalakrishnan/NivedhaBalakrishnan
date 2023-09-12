@@ -55,3 +55,6 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Description: Built a movie recommendation system using TensorFlow and deep learning techniques.
 - Repository Link: [Movie Recommendation System](https://github.com/NivedhaBalakrishnan/Recommendation_Systems/tree/main/Movie%20Recommendation)
 
+## Apache Spark
+- Description: Churn Prediction using Apache's PySpark Machine Learning
+- Repository: [Churn Prediction](https://github.com/NivedhaBalakrishnan/Apache-Spark/tree/main)
