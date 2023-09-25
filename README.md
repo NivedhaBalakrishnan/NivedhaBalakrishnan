@@ -32,15 +32,19 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 
 ## GenAI/NLP/LLM/Transformers
 
-#### Project 1: Text Summarization using Transformers
+#### Project 1: Grocery Bot using RAG and ReAct
+- Description: Grocery Bot that helps with choosing recipes and corresponding ingredients.
+- Repository Link: [Grocery Bot](https://github.com/NivedhaBalakrishnan/GenAI-Studio-VertexAI)
+
+#### Project 2: Text Summarization using Transformers
 - Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
 - Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
 
-#### Project 2: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot
+#### Project 3: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
-#### Project 3: MLOps driven News Article Search Relevancy with SBERT 
+#### Project 4: MLOps driven News Article Search Relevancy with SBERT 
 - Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
 - Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
 
