@@ -24,6 +24,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/NTA5KZMP8DFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ## Project Demo: [Conversational Bot](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
+- Repository Link: [Jack Bot with Multiple Personality](https://github.com/NivedhaBalakrishnan/Quaker-Jack)
 
 # Highlighted Projects
 ## Master Thesis
