@@ -23,7 +23,13 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/24a430fd692249bb627b8846fc73c72e921f5b5057a3c254e33bd7a56c19e085)
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/NTA5KZMP8DFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-## Project Demo: [Conversational Bot](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
+## Project Demo 
+
+1. PDF Query Bot + Web App [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
+[![image](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/assets/50318272/7eef19f8-c6e3-4e3e-b2b7-999bd5225119)](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV)
+- Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan/Quaker-Jack](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/tree/main))
+
+3. Conversational Bot [Click here to watch the demo](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
 - Repository Link: [Jack Bot with Multiple Personality](https://github.com/NivedhaBalakrishnan/Quaker-Jack)
 
 # Highlighted Projects
