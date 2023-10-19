@@ -28,7 +28,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 1. PDF Query Bot + Web App [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
 
 
-Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan/Quaker-Jack](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/tree/main))
+Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/tree/main)
 
 [![image](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/assets/50318272/7eef19f8-c6e3-4e3e-b2b7-999bd5225119)](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV)
 
