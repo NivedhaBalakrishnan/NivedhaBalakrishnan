@@ -25,7 +25,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 
 ## Project Demo 
 
-1. PDF Query Bot + Web App [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
+1. PDF Query Bot + Web App (Generative LLM) [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
 
 
 Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/tree/main)
@@ -33,7 +33,7 @@ Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan
 [![image](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/assets/50318272/7eef19f8-c6e3-4e3e-b2b7-999bd5225119)](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV)
 
 
-2. Conversational Bot [Click here to watch the demo](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
+2. Conversational Bot (ASR + Generative LLM + TTS) [Click here to watch the demo](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
 
 Repository Link: [Jack Bot with Multiple Personality](https://github.com/NivedhaBalakrishnan/Quaker-Jack)
    
@@ -49,19 +49,19 @@ Repository Link: [Jack Bot with Multiple Personality](https://github.com/Nivedha
 
 ## GenAI/NLP/LLM/Transformers
 
-#### Project 1: Grocery Bot using RAG and ReAct
+#### Project 1: Grocery Bot using RAG and ReAct (Generative LLM)
 - Description: Grocery Bot that helps with choosing recipes and corresponding ingredients.
 - Repository Link: [Grocery Bot](https://github.com/NivedhaBalakrishnan/GenAI-Studio-VertexAI)
 
-#### Project 2: Text Summarization using Transformers
+#### Project 2: Text Summarization using Transformers (Generative LLM)
 - Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
 - Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
 
-#### Project 3: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot
+#### Project 3: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot (Generative LLM)
 - Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
 - Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
 
-#### Project 4: MLOps driven News Article Search Relevancy with SBERT 
+#### Project 4: MLOps-driven News Article Search Relevancy with SBERT 
 - Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
 - Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
 
