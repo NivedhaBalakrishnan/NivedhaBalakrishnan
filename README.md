@@ -78,3 +78,7 @@ Repository Link: [Jack Bot with Multiple Personality](https://github.com/Nivedha
 ## Apache Spark
 - Description: Churn Prediction using Apache's PySpark Machine Learning
 - Repository: [Churn Prediction](https://github.com/NivedhaBalakrishnan/Apache-Spark/tree/main)
+
+## MySQL and MongoDB
+- Description: NBA data management and analysis
+- Repository: [NBA Data Management and Analysis](https://github.com/NivedhaBalakrishnan/Data-Analytics-Protfolio/tree/main/NBA%20Basketball%20Data%20Analytics)
