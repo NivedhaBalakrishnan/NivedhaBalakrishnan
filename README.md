@@ -22,7 +22,11 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 ## :📚 Certified Courses
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/24a430fd692249bb627b8846fc73c72e921f5b5057a3c254e33bd7a56c19e085)
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/NTA5KZMP8DFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
+- Deploying a Model for Inference at Production Scale by NVIDIA
+- Building Conversational AI Applications by NVIDIA
+- Generative AI with Diffusion Models by NVIDIA
+- Model Parallelism: Building and Deploying Large Neural Networks
+  
 ## Project Demo 
 
 1. PDF Query Bot + Web App (Generative LLM) [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
