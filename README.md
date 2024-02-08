@@ -25,7 +25,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Deploying a Model for Inference at Production Scale by NVIDIA
 - Building Conversational AI Applications by NVIDIA
 - Generative AI with Diffusion Models by NVIDIA
-- Model Parallelism: Building and Deploying Large Neural Networks
+- Model Parallelism: Building and Deploying Large Neural Networks by NVIDIA
   
 ## Project Demo 
 
