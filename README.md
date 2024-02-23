@@ -26,7 +26,10 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Building Conversational AI Applications by NVIDIA
 - Generative AI with Diffusion Models by NVIDIA
 - Model Parallelism: Building and Deploying Large Neural Networks by NVIDIA
-  
+
+# From scratch
+1. Transformer model from scratch [project_link](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+
 ## Project Demo 
 
 1. PDF Query Bot + Web App (Generative LLM) [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
