@@ -6,7 +6,14 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 
  If you'd like to explore the skills and knowledge I've gathered on this journey, please feel free to delve deeper into my work below.
 
- ### 🌐 Socials
+### Current Projects and Professional Focus
+- **Working on:** Building and deploying a Language Model (LLM) into production while implementing a vector database for efficient storage and retrieval.
+- **Exploring:** Distributed training, inference, and optimizing LLM for performance and latency.
+- **Passionate about:** Using AI to create solutions that positively impact people's lives, whether it's through healthcare, education, or other domains.
+- **Collaborating on:** LLMs for Knowledge Graphs using unstructured data.
+- **Here to help:** Individuals who are starting out in AI, coding, or any related field. Feel free to reach out to me on LinkedIn!
+
+### 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/nivedhabkr/)
 - [YouTube](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
 
@@ -34,7 +41,6 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 ## Project Demo 
 
 1. PDF Query Bot + Web App (Generative LLM) [Click here to watch the demo](https://youtu.be/v2zfz-iGc80?si=PGO8MeghXWcymcfV/)
-
 
 Repository Link: [ChatBot with PDF Query](https://github.com/NivedhaBalakrishnan/PdfBot_WebApp/tree/main)
 
