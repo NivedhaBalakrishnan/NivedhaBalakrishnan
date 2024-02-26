@@ -19,6 +19,11 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-11.2-76B900.svg)	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=MongoDB&logoColor=white) 
 
+## From Scratch Projects
+1. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
+2. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+3. [Webcrawl and semantic search](https://github.com/NivedhaBalakrishnan/Web-Crawler)
+
 ## :📚 Certified Courses
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/24a430fd692249bb627b8846fc73c72e921f5b5057a3c254e33bd7a56c19e085)
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/NTA5KZMP8DFJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
@@ -26,11 +31,6 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Building Conversational AI Applications by NVIDIA
 - Generative AI with Diffusion Models by NVIDIA
 - Model Parallelism: Building and Deploying Large Neural Networks by NVIDIA
-
-## From Scratch Projects
-1. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
-2. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
-3. [Webcrawl and semantic search](https://github.com/NivedhaBalakrishnan/Web-Crawler)
 
 ## Project Demo 
 
