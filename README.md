@@ -27,8 +27,10 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - Generative AI with Diffusion Models by NVIDIA
 - Model Parallelism: Building and Deploying Large Neural Networks by NVIDIA
 
-# From scratch
-1. Transformer model from scratch [project_link](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+## From Scratch Projects
+1. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
+2. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+3. [Webcrawl and semantic search](https://github.com/NivedhaBalakrishnan/Web-Crawler)
 
 ## Project Demo 
 
@@ -47,7 +49,7 @@ Repository Link: [Jack Bot with Multiple Personality](https://github.com/Nivedha
 ![image](https://github.com/NivedhaBalakrishnan/NivedhaBalakrishnan/assets/50318272/9bfe9e7c-ffc9-4807-96ed-911193289e1b)
 
 
-# Highlighted Projects
+
 ## Master Thesis
 #### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
 - Description: Research project using ML to discover new drugs to treat thrombosis
