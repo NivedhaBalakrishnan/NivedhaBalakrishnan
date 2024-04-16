@@ -26,9 +26,10 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-11.2-76B900.svg)	![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## From Scratch Projects
-1. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
-2. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
-3. [Webcrawl and semantic search from scratch](https://github.com/NivedhaBalakrishnan/Web-Crawler)
+1. [Knowledge Graph for Medical data](https://github.com/NivedhaBalakrishnan/End-to-end-GraphRAG.git)
+2. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
+3. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+4. [Webcrawl and semantic search from scratch](https://github.com/NivedhaBalakrishnan/Web-Crawler)
 
 ## :📚 Certified Courses
 - [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/24a430fd692249bb627b8846fc73c72e921f5b5057a3c254e33bd7a56c19e085)
