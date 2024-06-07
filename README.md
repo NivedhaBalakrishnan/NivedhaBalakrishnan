@@ -14,6 +14,7 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 - **Here to help:** Individuals who are starting out in AI, coding, or any related field. Feel free to reach out to me on LinkedIn!
 
 ### 🌐 Socials
+- [Medium](https://medium.com/@nivedha0702)
 - [LinkedIn](https://www.linkedin.com/in/nivedhabkr/)
 - [YouTube](https://www.youtube.com/watch?v=28OVQGNCBgo&ab_channel=NivedhaBalakrishnan)
 
