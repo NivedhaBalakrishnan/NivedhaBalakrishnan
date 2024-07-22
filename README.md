@@ -26,13 +26,38 @@ Since my childhood, I've been motivated by endeavors that have a meaningful impa
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-11.2-76B900.svg)	![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
-## From Scratch Projects
-1. [Graph RAG for Medical data](https://github.com/NivedhaBalakrishnan/End-to-end-GraphRAG.git)
-2. [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
-3. [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
-4. [Webcrawl and semantic search from scratch](https://github.com/NivedhaBalakrishnan/Web-Crawler)
+## Gen AI Projects
+#### Project 1: Graph RAG for Diet and Inflammation using LLM
+- Description: A system leveraging graph-based retrieval and large language models to query and extract relevant information on the relationship between diet and inflammation.
+- Repository Link: [Graph RAG for Medical data](https://github.com/NivedhaBalakrishnan/End-to-end-GraphRAG.git)
 
+#### Project 2: Vector Store from Scratch
+- Description: Implementation of a persistent vector store from scratch using the Hierarchical Navigable Small World (HNSW) algorithm
+- Repository Link: [Vector Store from Scratch](https://github.com/NivedhaBalakrishnan/Vector_Store_from_Scratch)
 
+#### Project 3: Transformer Model from Scratch
+- Description: Implementation of a GPT Model from scratch using PyTorch
+- Repository Link: [Pretraining Transformer model from scratch](https://github.com/NivedhaBalakrishnan/Transformer_from_Scratch)
+
+#### Project 4: Web Crawler and Semantic Search with Embeddings
+- Description: A project combining web crawling and semantic search using embeddings to efficiently retrieve and understand web data.
+- Repository Link: [Webcrawl and semantic search from scratch](https://github.com/NivedhaBalakrishnan/Web-Crawler)
+
+#### Project 5: Grocery Bot using RAG and ReAct (Generative LLM)
+- Description: Grocery Bot that helps with choosing recipes and corresponding ingredients.
+- Repository Link: [Grocery Bot](https://github.com/NivedhaBalakrishnan/GenAI-Studio-VertexAI)
+
+#### Project 6: Text Summarization using Transformers (Generative LLM)
+- Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
+- Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
+
+#### Project 7: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot (Generative LLM)
+- Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
+- Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
+
+#### Project 8: MLOps-driven News Article Search Relevancy with SBERT 
+- Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
+- Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
 
 ## Project Demo 
 
@@ -49,31 +74,12 @@ Repository Link: [Jack Bot with Multiple Personality](https://github.com/Nivedha
    
 ![image](https://github.com/NivedhaBalakrishnan/NivedhaBalakrishnan/assets/50318272/9bfe9e7c-ffc9-4807-96ed-911193289e1b)
 
-
-
 ## Master Thesis
 #### PROSPECTION OF PEPTIDE INHIBITORS OF THROMBIN FROM DIVERSE HABITATS USING MACHINE LEARNING
 - Description: Research project using ML to discover new drugs to treat thrombosis
 - Repository Link: [Master Thesis Codebase](https://github.com/NivedhaBalakrishnan/Antithrombin_Peptide_ML)
 - Inference Website: [Thrombin Inhibitor Peptide Predictor](https://thrombin-inhibitor-peptide-predictor.info/)
 
-## GenAI/NLP/LLM/Transformers
-
-#### Project 1: Grocery Bot using RAG and ReAct (Generative LLM)
-- Description: Grocery Bot that helps with choosing recipes and corresponding ingredients.
-- Repository Link: [Grocery Bot](https://github.com/NivedhaBalakrishnan/GenAI-Studio-VertexAI)
-
-#### Project 2: Text Summarization using Transformers (Generative LLM)
-- Description: Customer service-client dialogue summarization using GPT-3.5 and FLAN T5 
-- Repository Link: [GenAI_Summarization_Customer_Service](https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/tree/main)
-
-#### Project 3: Sentiment Analysis of Dating App Reviews using Transformers and Interactive Q&A Bot (Generative LLM)
-- Description: Utilized RoBERTa for sentiment analysis and built a Q&A Bot powered by the GPT-3.5 model using LangChain to understand customer reviews.
-- Repository Link: [Dating App Insights](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights)
-
-#### Project 4: MLOps-driven News Article Search Relevancy with SBERT 
-- Description: Enhanced news article search relevance with SBERT transformer using an end-to-end ML Ops project, from MongoDB data to AWS EC2 deployment via Docker.
-- Repository Link: [End To End ML Pipeline](https://github.com/NivedhaBalakrishnan/End_to_End_ML_Pipeline/tree/main)
 
 ## Recommendation Systems
 
